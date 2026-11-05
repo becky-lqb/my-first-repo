@@ -1,0 +1,3 @@
+Hello GitHub!
+这是我的第一个仓库，今天学会了用 Git 上传代码。
+你好，GitHub！我会用 Git 了！
